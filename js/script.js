@@ -77,12 +77,6 @@ const obs = new IntersectionObserver(
   }
 );
 obs.observe(sectionHeroEl);
-/////////////////////////////////////////////////////////////
-// hero section animation
-const hero = document.querySelector(".hero");
-window.addEventListener("load", function () {
-  hero.classList.remove("out");
-});
 
 //////////////////////////////////////////////
 // sections animation

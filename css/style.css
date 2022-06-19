@@ -188,28 +188,13 @@
   -ms-transition: 1s ease;
   -o-transition: 1s ease;
 }
-.out .hero-img-box {
-  opacity: 0;
-  transform: translateX(1500px);
-  -webkit-transform: translateX(1500px);
-  -moz-transform: translateX(1500px);
-  -ms-transform: translateX(1500px);
-  -o-transform: translateX(1500px);
-}
+
 .hero-text-box {
   transition: 1s ease;
   -webkit-transition: 1s ease;
   -moz-transition: 1s ease;
   -ms-transition: 1s ease;
   -o-transition: 1s ease;
-}
-.out .hero-text-box {
-  opacity: 0;
-  transform: translateX(-1500px);
-  -webkit-transform: translateX(-1500px);
-  -moz-transform: translateX(-1500px);
-  -ms-transform: translateX(-1500px);
-  -o-transform: translateX(-1500px);
 }
 
 /********************************************************************/
